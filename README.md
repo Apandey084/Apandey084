@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Atul%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=⚛️+Next.js+%2B+Node.js+Full+Stack+Developer;🛠️+Building+Production-Ready+Web+Apps;🎓+B.Tech+Student+%7C+India;💼+Open+to+Internship+Opportunities!" alt="Typing SVG" />
+  <img src=""C:\Users\Empires\Documents\leetcode.jpeg"" alt="Typing SVG" />
 </a>
 
 <br/><br/>
