@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Atul%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<a href="https://git.io/typing-svg">
-  <img src=""C:\Users\Empires\Documents\leetcode.jpeg"" alt="Typing SVG" />
-</a>
+
 
 <br/><br/>
 
